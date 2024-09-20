@@ -1,3 +1,3 @@
 
-library(ggplot2) #now i will make a conflict
+library(ggplot2) #Conflict resolved
 library(httr2)
